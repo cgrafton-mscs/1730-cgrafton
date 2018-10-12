@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cgrafton-2B1", "cgrafton-2B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cgrafton2C1", "cgrafton2C1\cgrafton2C1.csproj", "{5123CD77-ED55-4AC7-AA1B-A2595E2E095D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cgrafton2D", "cgrafton2D\cgrafton2D.csproj", "{B50321DE-4D16-4A2C-AF69-8E342817E060}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{5123CD77-ED55-4AC7-AA1B-A2595E2E095D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5123CD77-ED55-4AC7-AA1B-A2595E2E095D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5123CD77-ED55-4AC7-AA1B-A2595E2E095D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B50321DE-4D16-4A2C-AF69-8E342817E060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50321DE-4D16-4A2C-AF69-8E342817E060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50321DE-4D16-4A2C-AF69-8E342817E060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50321DE-4D16-4A2C-AF69-8E342817E060}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

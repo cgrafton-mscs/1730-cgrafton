@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cgrafton2E1", "cgrafton2E1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cgrafton2E1UnitTests", "cgrafton2E1UnitTests\cgrafton2E1UnitTests.csproj", "{EE637D0D-F856-4A04-8351-009460D60D97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cgrafton2F1", "cgrafton2F1\cgrafton2F1.csproj", "{451B3673-65A4-4B88-9529-2C7A70C7B917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cgrafton2F1UnitTests", "cgrafton2F1UnitTests\cgrafton2F1UnitTests.csproj", "{86FC0D2C-2FB8-429C-A649-42CD7A5414FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{EE637D0D-F856-4A04-8351-009460D60D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE637D0D-F856-4A04-8351-009460D60D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE637D0D-F856-4A04-8351-009460D60D97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451B3673-65A4-4B88-9529-2C7A70C7B917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451B3673-65A4-4B88-9529-2C7A70C7B917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451B3673-65A4-4B88-9529-2C7A70C7B917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451B3673-65A4-4B88-9529-2C7A70C7B917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86FC0D2C-2FB8-429C-A649-42CD7A5414FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FC0D2C-2FB8-429C-A649-42CD7A5414FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FC0D2C-2FB8-429C-A649-42CD7A5414FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FC0D2C-2FB8-429C-A649-42CD7A5414FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

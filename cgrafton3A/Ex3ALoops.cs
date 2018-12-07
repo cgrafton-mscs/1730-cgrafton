@@ -120,6 +120,7 @@ namespace cgrafton3A
                 int start = Int32.Parse(strStart);
                 int end = Int32.Parse(strEnd);
                 int increment = Int32.Parse(strIncrement);
+                if (increment <= 0) throw new Exception();
                 int i = start;
                 do
                 {
@@ -159,18 +160,23 @@ namespace cgrafton3A
         public static string Calc6(string strNumbers, string strCount)
         {
             string result = "";
-            int startIdex = 0;
+            int startIndex = 0;
+            int sum = 0;
 
             try
             {
 
-                while ( )
+                int count = Int32.Parse(strCount);
+                int i = 1;
+                while (i <= count)
                 {
-                    int endIndex = strNumbers.IndexOf(' ', startIdex);
-                    string strNumber = strNumbers.Substring(startIdex, endIndex - startIdex);
+                    int endIndex = strNumbers.IndexOf(' ', startIndex);
+                    string strNumber = strNumbers.Substring(startIndex, endIndex - startIndex);
                     int number = Int32.Parse(strNumber);
+                    number += sum;
 
-                    startIdex = endIndex + 1;
+                    startIndex = endIndex + 1;
+                    i++;
                 }
             }
             catch

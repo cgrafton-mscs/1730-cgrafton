@@ -143,5 +143,10 @@ namespace cgrafton3B1
                 MessageBox.Show("Invalid input: " + this.inputtextbox7a.Text);
             }
         }
+
+        private void addItemButton4_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
